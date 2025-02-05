@@ -1,0 +1,57 @@
+name: rudolph.kunze
+description: Persistent
+version: 0.0.1
+author: 672nzb3x.ufo5jb62@g0hkivie.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: rudolphkunze
+  parentArtefactID: team1738736873571
+  buildSystem: maven
+  author: null
+  createdAt: '2025-02-05 06:27:54'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-02-05 06:27:54'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-02-05T06:27:54.396821Z'
+  name: plibMaven
+  version: 8.9.0-SNAPSHOT
+  id: '1841729430'
+  createdAt: '2025-02-05T06:27:54.396821Z'
+  type: plibMaven
+projectDependencies:
+  '416':
+    projectUID: 416
+    projectName: florida.denesik
+    repositoryPath: gitUri=http://gitserver:3000/dev_NS5sEaYo_team_683/dev_NS5sEaYo_project_416.git&subPath=
+    version: florida.denesik/0.39.427
+    isDefault: false
+    author: null
+    createdAt: '2025-02-05 06:27:54'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
